@@ -1,0 +1,44 @@
+Tugas Pertemuan 2
+
+Buat sebuah pengkondisian Umur dan Gender
+
+Jika Umur kurang dari 12 dan bergender Perempuan
+Maka tampilkan "Anak Perempuan ini Masih Kecil"
+
+Jika Umur lebih dari 16 dan kurang dari 12 dan bergender Perempuan
+Maka tampilkan "Anak Perempuan ini Masih Remaja"
+
+Jika Umur lebih dari 18 dan kurang dari 30 dan bergender Perempuan
+Maka Tampilkan "Anak ini kini sudah Dewasa dan siap Menikah"
+
+Jika Umur lebih dari 40 dan kurang dari 100 dan bergender Perempuan
+Maka Tampilkan "Anak Perempuan ini Sudah Mulai Menua"
+
+Jika Umur kurang dari 12 dan bergender Laki-laki
+Maka tampilkan "Anak Laki-laki ini Masih Kecil"
+
+Jika Umur lebih dari 16 dan kurang dari 12 dan bergender Laki-laki
+Maka tampilkan "Anak Laki-laki ini Masih Remaja"
+
+Jika Umur lebih dari 18 dan kurang dari 30 dan bergender Laki-laki
+Maka Tampilkan "Anak Laki-laki ini kini sudah Dewasa dan siap menafkahi"
+
+Jika Umur lebih dari 40 dan kurang dari 100 dan bergender Laki-laki
+Maka Tampilkan "Anak Laki-laki ini Sudah Mulai Menua"
+
+Jikan Bukan Keduanya
+Maka Tampilkan "Kaum LGBT"
+
+Output Yang di Harapkan
+
+#####################################
+#    Program Cek Usia dan Gender    #
+#####################################
+
+1.Perempuan 
+2.Laki-laki
+Masukan Gender Anda : 1
+Masukan Umur Anda : 18
+
+Anak Perempuan ini Masih Remaja
+
